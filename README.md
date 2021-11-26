@@ -5,6 +5,7 @@
 * fonts-font-awesome (or ttf-font-awesome on Arch)
 * acpi
 * python3
+* perl (in which CPU usage script is written)
 * mpstat (install sysstat if you don't have it)
 * kbdd (for keyboard layout)
 
